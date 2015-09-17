@@ -4,18 +4,16 @@
 Plugin Name: Sermon Plugin
 Plugin URI: http://sermonplugin.com
 Description: Add responsive audio/video sermons to your church website.
-Author: Rapid Digital LLC
+Author: Rapid Digital LLC, Daniel Boorn <daniel.boorn@gmail.com>
 Version: 1.0.0
 Author URI: http://rapiddigitalllc.com
 */
 
 /**
- * NOTICE        - This plugin requires purchasing a paid license per installation. Please do not pirate church software.
- * Modifications - Modifications are allowed but at your own risk. Sorry, No refunds or free support for modifications.
  * MVC Design    - This plugin uses a Object Oriented Model View Controller design. Knowledge of OO PHP is required for modification.
  * PHP 5.3+      - This plugin is designed for modern PHP 5.3+. However, it may function on older versions.
  *               - We have no intention of supporting older (less secure) versions of PHP.
- * Questions?    - Got a question or need a modification? Drop us a line at info@rapiddigitalllc.com
+ * Questions?    - Got a question or need a modification? Drop us a line at daniel.boorn@gmail.com
  * Shortcodes    - A list of shortcodes are displayed under the sermon index page in the admin panel.
  */
 
