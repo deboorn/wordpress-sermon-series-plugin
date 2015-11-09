@@ -58,7 +58,7 @@ class SermonPlugin_Table_Sermons extends SermonPlugin_Table
     public function column_audio_url($item)
     {
         if(!$item->audio_url) return null;
-        return sprintf("<audio controls src='%s'/>", $item->audio_url);
+        return sprintf("<audio preload='none' controls src='%s'/>", $item->audio_url);
     }
 
     public function column_video_embed($item){
